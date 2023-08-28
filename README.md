@@ -6,7 +6,8 @@
 ##Texas A&M University
 TAMU Statistics web site [TAMU Statistics web site](https://stat.tamu.edu/).
 
-# ALLAN SANTIZO FLORES
+
+
 # ALLAN SANTIZO FLORES
 ## UIN 334002692
 
