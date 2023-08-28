@@ -3,6 +3,5 @@
 # ALLAN SANTIZO FLORES
 ## UIN 334002692
 
-TAMU Statistics web site
-This site was built using [GitHub Pages](https://pages.github.com/).
+[TAMU Statistics web site](https://stat.tamu.edu/).
 
