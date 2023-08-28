@@ -14,4 +14,4 @@ TAMU Statistics web site [TAMU Statistics web site](https://stat.tamu.edu/).
 - Bachelor of arts in Economics Universidad Rafael Landivar 2008-2013
 - Master of Science in Applied Finance and Economics Universidad Rafael Landivar 2019-2020
   
-![Imagen]()
+![Imagen](/IMG_9937.JPG)
