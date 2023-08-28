@@ -1,2 +1,5 @@
 # asantizo.github.io
-#ALLAN SANTIZO
+# HW1 STAT604
+# ALLAN SANTIZO FLORES
+## UIN 334002692
+
